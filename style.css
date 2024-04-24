@@ -58,6 +58,7 @@
     border: none;
     font-weight: bold;
     background-color: #8CFF0E;
+    box-shadow: 0px 0px 30px 4px;
     color: black;
     margin-left: 10px;
 }
